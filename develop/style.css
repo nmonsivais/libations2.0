@@ -2,3 +2,7 @@
   background-color: #000000; /* Orange */
   color: #ffffff;
 }
+
+.center {
+  text-align: center;
+}
