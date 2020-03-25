@@ -1,6 +1,6 @@
 # Libations
 
-- With a simple UI, this application is for picking out a brewery, brewpub, or beerbar to get your drink on. After the user types in a city, they are given a list of local places with a link to their website, as well as the local weather. By utilizing local storage, the user can return to the app and see the last places they searched.
+- With a simple UI, this application is for picking out a brewery, brewpub, or beer bar to get your drink on. After the user types in a city, they are given a list of local places with a link to their website, as well as the local weather. By utilizing local storage, the user can return to the app and see the last places they searched.
 
 # Technologies
 
@@ -20,7 +20,7 @@
 
 # Live Link
 
-- <a href="https://nmonsivais.github.io/libations2.0/">Libations2.0</a>
+- <a href="https://nmonsivais.github.io/libations2.0/">Libations2.</a>
 - <a href="https://nmonsivais.github.io/libations2.0/">Repository</a>
 
 # Contact Us
